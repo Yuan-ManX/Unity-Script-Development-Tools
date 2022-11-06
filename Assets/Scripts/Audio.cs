@@ -71,7 +71,7 @@ public class Audio : MonoBehaviour
     public AudioMixerPlayable AudioMixerPlayable;
 
     // 4、AudioPlayableOutput：A IPlayableOutput implementation that will be used to play audio.
-    public AudioPlayableOutputAudioPlayableOutput;
+    public AudioPlayableOutput AudioPlayableOutput;
 
     // 5、WebCamDevice：A structure describing the webcam device.
     public WebCamDevice WebCamDevice;
